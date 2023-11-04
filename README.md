@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @webbySEO
+- 👀 I’m interested in Full stack development
+- 🌱 I’m currently learning ruby on rails and vue js
+- 💞️ I’m looking to collaborate on Rails
+- 📫 How to reach me seoonly8797@gmail.com
